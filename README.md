@@ -1,7 +1,3 @@
-Perfect 👍 Here’s your **personalized `README.md`** version with your name **Nehan Shaikh**, a placeholder GitHub username you can replace (e.g., `NehanShaikh07`), and your backend API endpoint set to **`http://192.168.1.100/verify-fingerprint.php`** 👇
-
----
-
 ```markdown
 # 🧠 Biometric Attendance App (Flutter)
 
