@@ -164,8 +164,8 @@ Make sure the following permissions are granted:
 **🧑‍💻 Nehan Shaikh**
 🎓 B.E. Computer Science & Engineering (AI & ML)
 📍 India
-🔗 [GitHub Profile](https://github.com/NehanShaikh07)
-✉️ [Email me](mailto:nehan.shaikh@example.com)
+🔗 [GitHub Profile](https://github.com/NehanShaikh)
+✉️ [Email me](mailto:nehanshaikh07@gmail.com)
 
 ---
 
