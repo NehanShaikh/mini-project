@@ -176,6 +176,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 ### ⭐ If you find this project helpful, please give it a star on GitHub!
-
-```
-
